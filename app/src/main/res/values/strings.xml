@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="today_report">Today\'s Report</string>
+    <string name="pick_location">Pick location</string>
+    <string name="find_city">Find the city that you want to know the detailed weather info at this time</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="no_favourite">No favourite location added yet!</string>
+    <string name="weather_icon">WeatherIcon</string>
+    <string name="deleted_favourite">Delete Favourite</string>
+    <string name="unknown_location">Unknown Location. Showing default.</string>
+    <string name="loading_weather_information">Loading weather information</string>
+    <string name="humidity">Humidity</string>
+    <string name="no_internet_check_connection">No internet connection detected. Please check your internet connection and try again.</string>
+</resources>
